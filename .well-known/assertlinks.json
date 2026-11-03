@@ -2,9 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "Victorltd.myapp",
-        "sha256_cert_fingerprints": ["7D:5B:46:28:60:B6:64:1D:32:F7:A7:AC:54:0A:42:C8:34:82:79:D5:D7:6B:E6:67:38:3B:E6:39:7F:5B:C3:63"]
+        "package_name": "io.github.victorychikonye_cmd.twa",
+        "sha256_cert_fingerprints": ["61:12:58:E9:AD:7A:21:97:44:08:0B:F8:DA:3E:0B:2B:59:44:34:A7:E9:28:DB:82:08:73:36:36:7D:24:C8:33"]
       }
     }]
-
-
